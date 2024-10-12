@@ -1,6 +1,6 @@
-indice = 13
+indice = 12
 soma = 0
-k = 0
+k = 1
 
 while k < indice:
     k += 1
